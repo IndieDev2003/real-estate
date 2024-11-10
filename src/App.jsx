@@ -10,7 +10,7 @@ function App() {
       <Hero />
       <Search/>
       <Glimpse/>
-      {/* <Projects/> */}
+      <Projects/>
     </div>
   );
 }
