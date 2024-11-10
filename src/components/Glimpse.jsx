@@ -14,7 +14,7 @@ const Glimpse = () => {
         </p>
       </div>
       {/* Right Side */}
-      <div className=" flex items-center justify-center hover:rotate-2 hover:scale-110 transition-all duration-500">
+      <div className=" flex items-center justify-center hover:rotate-2 transition-all duration-500">
         <img
           src="https://i.pinimg.com/564x/0f/fb/b8/0ffbb8d668ec0fc16fd1feca30f62a13.jpg"
           alt=""
