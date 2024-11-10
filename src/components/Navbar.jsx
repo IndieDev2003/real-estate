@@ -14,7 +14,7 @@ const Navbar = () => {
   }
 
   useEffect(() => {
-    console.log(mobileActive)
+    // console.log(mobileActive)
   },[mobileActive])
   return (
     <div className="min-h-content flex md:flew-row items-center justify-between">
