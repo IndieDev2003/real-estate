@@ -48,7 +48,8 @@ const Navbar = () => {
           alt=""
           onClick={()=>setMobileActive(false)}
         />
-        <h2 className="py-2 text-lg w-ful bg-gray-400 pl-10">About Us</h2>
+        <h2 className="py-2 text-lg w-ful pl-10 bg-gray-500">Home</h2>
+        <h2 className="py-2 text-lg w-ful pl-10">About Us</h2>
         <h2 className="py-2 text-lg w-ful pl-10">Contact Us</h2>
         <h2 className="py-2 text-lg w-ful pl-10">Our Project</h2>
         <h2 className="py-2 text-lg w-ful pl-10">Collection</h2>
