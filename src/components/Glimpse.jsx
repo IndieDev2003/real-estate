@@ -2,7 +2,7 @@ import React from "react";
 
 const Glimpse = () => {
   return (
-    <div className="flex flex-col sm:flex-row h-[50vh] mt-10 mb-10">
+    <div className="flex flex-col sm:flex-row h-[50vh] mt-10 sm:mt-40 mb-4">
       {/* Left Side */}
       <div className="w-full sm:max-w-[50%] flex flex-col items-start justify-center sm:px-10 text-center sm:text-start">
         <h2 className="text-xl md:text-3xl lg:text-5xl mb-2 w-full md:animate-bounce">Our Short Story</h2>

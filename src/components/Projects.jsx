@@ -4,7 +4,7 @@ import ProjectItem from "./interface/ProjectItem";
 const Projects = () => {
   return (
     <div className="w-full">
-      <div className="flex flex-col items-center justify-center w-full">
+      <div className="flex flex-col items-center justify-center w-full sm:mt-20">
         <h2 className="text-3xl sm:text-5xl mt-3">Projects by Resize</h2>
         <p className="w-[80%] text-center mt-2">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
